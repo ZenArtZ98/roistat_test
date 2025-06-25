@@ -9,6 +9,13 @@
 php -S localhost:8000 -t public
 ```
 
+### Данные тестового аккаунта
+
+```
+Login: sergey.volkov98@yandex.ru
+Password: BzE-V5G-vLx-tJ4
+```
+
 ### 4. Открыть в браузере
 
 ```
